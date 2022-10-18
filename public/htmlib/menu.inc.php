@@ -268,6 +268,11 @@ sort($visualizers);
 										<span class="title">EGA </span>
 									</a>
 								</li>
+								<li class="nav-item <?php if ($currentSubSubSection == 'ps') { ?>active open<?php } ?>">
+									<a href="getdata/eush_ega/eush_ega.php" class="nav-link">
+										<span class="title">Molgenis </span>
+									</a>
+								</li>
 							</ul>
 
 							<ul class="sub-menu">
