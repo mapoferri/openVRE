@@ -33,11 +33,11 @@ require "../../htmlib/js.inc.php"; ?>
                             <i class="fa fa-circle"></i>
                         </li>
                         <li>
-                            <span>EGA</span>
+                            <span>Molgenis</span>
                             <i class="fa fa-circle"></i>
                         </li>
                         <li>
-			    <a href="getdata/eush_ega/eush_ega.php">Datasets</a>
+			    <a href="getdata/molgenis/molgenis.php">Datasets</a>
                             <i class="fa fa-circle"></i>
                         </li>
                         <li>
@@ -48,8 +48,8 @@ require "../../htmlib/js.inc.php"; ?>
                 <!-- END PAGE BAR -->
 
 		<!-- BEGIN PAGE TITLE-->
-                <h1 class="page-title"> Central EGA Outbox  &nbsp;&mdash;&nbsp; Files<br/><br/>
-                    <small> EGA DATASET : <?php echo $_REQUEST['ds_id'];?></small>
+                <h1 class="page-title"> Central Molgenis Outbox  &nbsp;&mdash;&nbsp; Files<br/><br/>
+                    <small> Molgenis DATASET : <?php echo $_REQUEST['ds_id'];?></small>
                 </h1>
                 <!-- END PAGE TITLE -->
                 <!-- END PAGE HEADER -->
