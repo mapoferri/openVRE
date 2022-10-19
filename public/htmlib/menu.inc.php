@@ -265,7 +265,7 @@ sort($visualizers);
 								</li>
 								<li class="nav-item <?php if ($currentSubSubSection == 'ps') { ?>active open<?php } ?>">
 									<a href="getdata/eush_ega/eush_ega.php" class="nav-link">
-										<span class="title">EGA </span>
+										<span class="title">EGA Path</span>
 									</a>
 								</li>
 								<li class="nav-item <?php if ($currentSubSubSection == 'ps') { ?>active open<?php } ?>">
@@ -286,7 +286,7 @@ sort($visualizers);
 
 						<li class="nav-item <?php if ($currentSection == 'dt') { ?>active open<?php } ?>">
 							<a href="getdata/eush_cardiogwas/eush_cardiogwas.php" class="nav-link">
-								<span class="title"> Cardiovascular GWAS </span>
+								<span class="title"> Cardiovascular</span>
 							</a>
 						</li>
 
