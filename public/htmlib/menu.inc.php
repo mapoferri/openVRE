@@ -269,7 +269,7 @@ sort($visualizers);
 									</a>
 								</li>
 								<li class="nav-item <?php if ($currentSubSubSection == 'ps') { ?>active open<?php } ?>">
-									<a href="getdata/molgenis/molgenis.php" class="nav-link">
+									<a href="getdata/eush_ega/eush_ega.php" class="nav-link">
 										<span class="title">Molgenis </span>
 									</a>
 								</li>
